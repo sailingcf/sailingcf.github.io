@@ -15,38 +15,28 @@ Education
 * M.S. in Control Engineering, Guangdong University of Technology, 2022
 * B.S. in Electrical Engineering and Automation, Gannan University of Science and Technology, 2019
 
-Work Experience
+Experience
 ======
-* Since Dec. 2025: Assistant Professor
+* Gannan Normal University
+  * Assistant Professor
   * School of Physics and Electronic Information
-  * Gannan Normal University, Ganzhou, China
+  * 2025 – present, Ganzhou, China
 
-* Jul. 2025 –  -Nov. 2025: Research Assistant
-  * School of Integrated Circuits
-  * Guangdong University of Technology, Guangzhou, China
+* Guangdong University of Technology
+  * Research Assistant
+  * School of Integrated Circuits, 
+  * Jul. 2025 – Nov. 2025, Guangzhou, China
 
-* Oct. 2021 – May. 2022: Internship
+* Guangdong Power Grid Co., Ltd.
+  * Internship
   * UAS Inspection Center
-  * Guangdong Power Grid Co., Ltd., Guangzhou, China
+  * Oct. 2021 – May. 2022, Guangzhou, China
 
-* Sep. 2023 – Sep. 2024: Visiting Research Student
-# * School of Electrical Engineering & Intelligentization
-  * Dongguan University of Technology, Dongguan, China
+* Dongguan University of Technology
+  * Visiting Research Student
   * Supervisor: Prof. Bin Ren
+  * Sep. 2023 – Sep. 2024, Dongguan,China
 
-Teaching
-======
-* Spring 2026
-  * 人工智能导论 (Introduction to Artificial Intelligence)
-
-Professional Service
-======
-* Journal reviewer
-  * Elsevier KBS
-  * Elsevier INS
-  * Elsevier ASOC
-  * 
-#  * 
 
 Skills
 ======

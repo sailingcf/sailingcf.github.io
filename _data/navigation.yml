@@ -1,8 +1,8 @@
-# The following is the order of the links in the header of the website.
+# The following is the order of the links in the header of the website.  以下为网站头部链接的排列顺序。
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
+# Changing the order here will adjust the order and you can also add additional links. 
+# Removing a link prevents it from showing in the header, but does not prevent it from being included in the site.
+# 删除一个链接会使其不在头部显示，但不会阻止其被包含在网站中。
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
