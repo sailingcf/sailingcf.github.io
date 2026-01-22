@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<u>Download my full CV in PDF</u>
+
 {% include base_path %}
 
 Education
@@ -30,7 +32,6 @@ Work Experience
   * Guangdong Power Grid Co., Ltd., Guangzhou, China
 
 * Sep. 2023 – Sep. 2024: Visiting Research Student
-# * School of Electrical Engineering & Intelligentization
   * Dongguan University of Technology, Dongguan, China
   * Supervisor: Prof. Bin Ren
 
@@ -46,35 +47,8 @@ Professional Service
   * Elsevier INS
   * Elsevier ASOC
   * 
-#  * 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
