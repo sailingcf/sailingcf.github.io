@@ -10,12 +10,13 @@ redirect_from:
 <u>Download my full CV in PDF</u>
 
 {% include base_path %}
-
+#
 Education
 ======
 * Ph.D in Control Science and Engineering, Guangdong University of Technology, 2025
 * M.S. in Control Engineering, Guangdong University of Technology, 2022
 * B.S. in Electrical Engineering and Automation, Gannan University of Science and Technology, 2019
+
 
 Work Experience
 ======
@@ -35,18 +36,14 @@ Work Experience
   * Dongguan University of Technology, Dongguan, China
   * Supervisor: Prof. Bin Ren
 
+#
+
 Teaching
 ======
 * Spring 2026
   * 人工智能导论 (Introduction to Artificial Intelligence)
 
-Professional Service
-======
-* Journal reviewer
-  * Elsevier KBS
-  * Elsevier INS
-  * Elsevier ASOC
-  * 
+
 
 
 
