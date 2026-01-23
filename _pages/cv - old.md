@@ -37,6 +37,13 @@ Experience
   * Supervisor: Prof. Bin Ren
   * Sep. 2023 – Sep. 2024, Dongguan,China
 
+Professional Service
+======
+* Journal reviewer
+  * Elsevier KBS
+  * Elsevier INS
+  * Elsevier ASOC
+  * 
 
 Skills
 ======

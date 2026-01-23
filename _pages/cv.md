@@ -10,7 +10,7 @@ redirect_from:
 <u>Download my full CV in PDF</u>
 
 {% include base_path %}
-#
+
 Education
 ======
 * Ph.D in Control Science and Engineering, Guangdong University of Technology, 2025
@@ -35,8 +35,8 @@ Work Experience
 * Sep. 2023 – Sep. 2024: Visiting Research Student
   * Dongguan University of Technology, Dongguan, China
   * Supervisor: Prof. Bin Ren
-
-#
+======
+# 
 
 Teaching
 ======

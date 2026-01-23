@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+
+# I am always looking for  creative and motivated undergraduate and graduate students, and interns to work on system research including algorithms, programming language, compiler, embedded systems, and electronic design automation.
+# I am always looking for creative and self-motivated students and post docs who are interested in co-designing the future AI acceleration algorithm and system for efficiency and privacy. 
+# I am always looking for motivated undergraduate and graduate students with background in computer science, microelectronics, electrical engineering, mathematics, statistics, or related areas, working on research fields of
+
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
