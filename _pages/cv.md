@@ -12,11 +12,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D in Control Science and Engineering, Guangdong University of Technology, 2025
 * M.S. in Control Engineering, Guangdong University of Technology, 2022
 * B.S. in Electrical Engineering and Automation, Gannan University of Science and Technology, 2019
 
+------
 
 Work Experience
 ======
@@ -35,8 +36,9 @@ Work Experience
 * Sep. 2023 – Sep. 2024: Visiting Research Student
   * Dongguan University of Technology, Dongguan, China
   * Supervisor: Prof. Bin Ren
+
 ======
-# 
+
 
 Teaching
 ======
