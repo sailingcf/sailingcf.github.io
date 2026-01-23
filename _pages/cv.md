@@ -20,12 +20,12 @@ Education
 ------
 
 Work Experience
-======
+------
 * Since Dec. 2025: Assistant Professor
   * School of Physics and Electronic Information
   * Gannan Normal University, Ganzhou, China
 
-* Jul. 2025 –  -Nov. 2025: Research Assistant
+* Jul. 2025 –  Nov. 2025: Research Assistant
   * School of Integrated Circuits
   * Guangdong University of Technology, Guangzhou, China
 
@@ -37,11 +37,10 @@ Work Experience
   * Dongguan University of Technology, Dongguan, China
   * Supervisor: Prof. Bin Ren
 
-======
 
 
 Teaching
-======
+------
 * Spring 2026
   * 人工智能导论 (Introduction to Artificial Intelligence)
 
