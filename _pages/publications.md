@@ -15,8 +15,7 @@ author_profile: true
 
 
 ## Journal Articles
-### Bo Liu, Boxu Zhou, Yanshan Xiao, Zhitong Wang, Baoqing Li, Shengxin He, Chenlong Ye, **Fan Cao**. 
-    	"SMT-DL: A Semi-Supervised Multi-Task Learning Framework Based on Dictionary Learning for Robust Feature Sharing", Neurocomputing, 2025, 651: 130996. 
+### Bo Liu, Boxu Zhou, Yanshan Xiao, Zhitong Wang, Baoqing Li, Shengxin He, Chenlong Ye, **Fan Cao**. SMT-DL: A Semi-Supervised Multi-Task Learning Framework Based on Dictionary Learning for Robust Feature Sharing, Neurocomputing, 2025, 651: 130996. 
 
 ### 	
 
