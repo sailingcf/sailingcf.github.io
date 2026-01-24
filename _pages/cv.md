@@ -31,9 +31,9 @@ Work Experience
   * UAS Inspection Center
   * Guangdong Power Grid Co., Ltd., Guangzhou, China
 
-* Sep. 2023 – Sep. 2024: Visiting Research Student
+* Sep. 2020 – Sep. 2021: Visiting Research Student
   * Dongguan University of Technology, Dongguan, China
-  * Supervisor: Prof. Bin Ren
+  * Supervisor: Prof. [Bin Ren](https://sme.dgut.edu.cn/info/1123/1432.htm)
 
 Teaching
 ======
