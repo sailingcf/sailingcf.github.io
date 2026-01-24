@@ -16,9 +16,9 @@ author_profile: true
 
 ## Journal Articles
 
-| [J44] | Liu, C., **Cao, F.**, Diao, Y., He, Y. and Cai, S. (2025). [Geographical Origin Identification of *Dendrobium officinale* Using Variational Inference-Enhanced Deep Learning](https://doi.org/10.3390/foods14193361). *Foods*, 14(19), 14193361. 
+[J44]  Liu, C., **Cao, F.**, Diao, Y., He, Y. and Cai, S. (2025). [Geographical Origin Identification of *Dendrobium officinale* Using Variational Inference-Enhanced Deep Learning](https://doi.org/10.3390/foods14193361). *Foods*, 14(19), 14193361. 
 
-| 9. | Liu, B., Ye, C., Xiao, Y., Li, B., Wang, Z., Zhou, B., He, S. and **Cao, F.** (2025). [A multi-view forward positive and unlabeled graph learning method based on dictionary learning](https://doi.org/10.1016/j.ins.2025.122517). *Information Sciences*, 720, 122517.
+[9].  Liu, B., Ye, C., Xiao, Y., Li, B., Wang, Z., Zhou, B., He, S. and **Cao, F.** (2025). [A multi-view forward positive and unlabeled graph learning method based on dictionary learning](https://doi.org/10.1016/j.ins.2025.122517). *Information Sciences*, 720, 122517.
 
 8. Liu, B., Zhou, B., Xiao, Y., Wang, Z., Li, B., He, S., Ye, C. and **Cao, F.** (2025). [SMT-DL: A semi-supervised multi-task learning framework based on dictionary learning for robust feature sharing](https://doi.org/10.1016/j.neucom.2025.130996). *Neurocomputing*, 651, 130996.
 
@@ -34,13 +34,13 @@ author_profile: true
 
 2. Xu, J., He, J., Liu, B., **Cao, F.** and Xiao, Y. (2024). [A two-generation based method for few-shot learning with few-shot instance-level privileged information](https://doi.org/10.1007/s10489-024-05388-z). *Applied Intelligence, 54(5), pp.4077–4094.
  
-1. He, J., Liu, B., **Cao, F.**, Xu, J. and Xiao, Y. (2024). [Few-Shot Object Counting With Dynamic Similarity-Aware in Latent Space](https://doi.org/10.1109/tgrs.2024.3350383). *IEEE Transactions on Geoscience and Remote Sensing*, 62, pp.1–14.
+1. He, J., Liu, B., **Cao, F.**, Xu, J. and Xiao, Y. (2024). [Few-Shot Object Counting With Dynamic Similarity-Aware in Latent Space](https://doi.org/10.1109/tgrs.2024.3350383). *IEEE Transactions on Geoscience and Remote Sensing*, 62, 3350383.
 
 ## Conference Papers
 
 4. **Cao, F.** (2024). [Monocular Visual Odometry Method for Indoor Mobile Robots](https://doi.org/10.1007/978-981-97-8650-3_15). In: *Proceedings of the 20th Chinese Intelligent Systems Conference (CISC)*. pp.140–147.
 
-3. **Cao, F.** and Yang, X. (2023). [UWB-Based Intelligent Positioning Method for Indoor Complex Environments](https://doi.org/10.1109/icmnwc60182.2023.10435759). In: *Proceedings of the 3rd International Conference on Mobile Networks and Wireless Communications (ICMNWC)*. pp.1–5. 
+3. **Cao, F.** and Yang, X. (2023). [UWB-Based Intelligent Positioning Method for Indoor Complex Environments](https://doi.org/10.1109/icmnwc60182.2023.10435759). In: *Proceedings of the 3rd International Conference on Mobile Networks and Wireless Communications (ICMNWC)*. 
 
 2. **Cao, F.**, Ren, B., Huang, Y., Qin, Y., Hu, Y. and Cai, S. (2022). [A Mechanical CAD Drawings Retrieval Method Based on Text and Image Information](https://doi.org/10.1109/yac57282.2022.10023917). In: *Proceedings of the 37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)*. pp.463–467.     
 
