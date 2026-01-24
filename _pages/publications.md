@@ -34,10 +34,10 @@ He, J., Liu, B., **Cao, F.**, Xu, J. and Xiao, Y. (2024). [Few-Shot Object Count
 
 ## Conference Papers
 
-**Cao, F.** (2024). [Monocular Visual Odometry Method for Indoor Mobile Robots. In: *Proceedings of the 20th Chinese Intelligent Systems Conference (CISC)*](https://doi.org/10.1007/978-981-97-8650-3_15). pp.140–147.
+**Cao, F.** (2024). [Monocular Visual Odometry Method for Indoor Mobile Robots](https://doi.org/10.1007/978-981-97-8650-3_15). In: *Proceedings of the 20th Chinese Intelligent Systems Conference (CISC)*. pp.140–147.
 
 **Cao, F.** and Yang, X. (2023). [UWB-Based Intelligent Positioning Method for Indoor Complex Environments](https://doi.org/10.1109/icmnwc60182.2023.10435759). In: *Proceedings of the 3rd International Conference on Mobile Networks and Wireless Communications (ICMNWC)*. pp.1–5. 
 
 **Cao, F.**, Ren, B., Huang, Y., Qin, Y., Hu, Y. and Cai, S. (2022). [A Mechanical CAD Drawings Retrieval Method Based on Text and Image Information](https://doi.org/10.1109/yac57282.2022.10023917). In: *Proceedings of the 37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)*. pp.463–467.     
 
-**Cao, F.**, Shen, J., Chen, P., Guo, J., Ge, H. and Cai, S. (2021). [Automatic Segmentation and Measurement of Femoral Head Necrosis in CT Images](https://doi.org/10.1007/s11548-021-02375-4). In: *Proceedings of the 35th International Congress and Exhibition on Computer Assisted Radiology and Surgery (CARS)*. Int J CARS 16 (Suppl 1).        
+**Cao, F.**, Shen, J., Chen, P., Guo, J., Ge, H. and Cai, S. (2021). [Automatic Segmentation and Measurement of Femoral Head Necrosis in CT Images](https://doi.org/10.1007/s11548-021-02375-4). In: *Proceedings of the 35th International Congress and Exhibition on Computer Assisted Radiology and Surgery (CARS). Int J CARS 16 (Suppl 1)*.        
