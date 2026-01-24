@@ -12,15 +12,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-------
+======
 * Ph.D in Control Science and Engineering, Guangdong University of Technology, 2025
 * M.S. in Control Engineering, Guangdong University of Technology, 2022
 * B.S. in Electrical Engineering and Automation, Gannan University of Science and Technology, 2019
 
-------
-
 Work Experience
-------
+======
 * Since Dec. 2025: Assistant Professor
   * School of Physics and Electronic Information
   * Gannan Normal University, Ganzhou, China
@@ -37,10 +35,8 @@ Work Experience
   * Dongguan University of Technology, Dongguan, China
   * Supervisor: Prof. Bin Ren
 
-
-
 Teaching
-------
+======
 * Spring 2026
   * 人工智能导论 (Introduction to Artificial Intelligence)
 
