@@ -23,7 +23,7 @@ repository               : "sailingcf/sailingcf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html 可以通过编辑 /_includes/author-profile.html 来进行更多自定义设置。
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "caofan.png"
   name             : "Fan Cao"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
