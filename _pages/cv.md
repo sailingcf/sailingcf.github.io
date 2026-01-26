@@ -33,7 +33,7 @@ Work Experience
 
 * Sep. 2020 – Sep. 2021: Visiting Research Student
   * Dongguan University of Technology, Dongguan, China
-  * Supervisor: Prof. [Bin Ren](https://sme.dgut.edu.cn/info/1123/1432.htm)
+  * Supervisor: Prof. Bin Ren
 
 Teaching
 ======
