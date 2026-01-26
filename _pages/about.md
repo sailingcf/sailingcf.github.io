@@ -21,6 +21,8 @@ I am always looking for motivated undergraduate and graduate students with backg
 
 🔥 News
 ======
-- **2025.09**: One paper is accepted by Foods.
-- **2025.07**: One paper is accepted by Neurocomputing [[paper](https://doi.org/10.1016/j.neucom.2025.130996)] . 
-- **2025.05**: One paper is accepted by Information Sciences.
+- **Dec 2025**: I joined  Gannan Normal University as an Assistant Professor. 💼
+- **Sep 2025**: One paper is accepted by Foods [[paper](https://www.mdpi.com/2304-8158/14/19/3361)]. 📃
+- **Jul 2025**: One paper is accepted by Neurocomputing [[paper](https://doi.org/10.1016/j.neucom.2025.130996)]. 📃
+- **Jun 2025**: I obtained my doctoral degree from Guangdong University of Technology. 🎓🎉
+- **May 2025**: One paper is accepted by Information Sciences [[paper](https://doi.org/10.1016/j.ins.2025.122112)]. 📃
