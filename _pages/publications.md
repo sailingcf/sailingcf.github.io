@@ -32,7 +32,7 @@ author_profile: true
 
 2. Xu, J., Liu, B., Xiao, Y., **Cao, F.** and He, J. (2024). [A multitask tensor-based relation network for cloth-changing person re-identification](https://doi.org/10.1016/j.imavis.2024.105090). *Image and Vision Computing*, 147, 105090. 
 
-2. Xu, J., He, J., Liu, B., **Cao, F.** and Xiao, Y. (2024). [A two-generation based method for few-shot learning with few-shot instance-level privileged information](https://doi.org/10.1007/s10489-024-05388-z). *Applied Intelligence, 54(5), pp.4077–4094.
+2. Xu, J., He, J., Liu, B., **Cao, F.** and Xiao, Y. (2024). [A two-generation based method for few-shot learning with few-shot instance-level privileged information](https://doi.org/10.1007/s10489-024-05388-z). *Applied Intelligence*, 54(5), pp.4077–4094.
  
 1. He, J., Liu, B., **Cao, F.**, Xu, J. and Xiao, Y. (2024). [Few-Shot Object Counting With Dynamic Similarity-Aware in Latent Space](https://doi.org/10.1109/tgrs.2024.3350383). *IEEE Transactions on Geoscience and Remote Sensing*, 62, 3350383.
 
