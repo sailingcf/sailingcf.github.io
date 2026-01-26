@@ -10,7 +10,7 @@ I am currently an Assistant Professor in the School of Physics and Electronic In
 I received my M.S. degree in Control Engineering in 2020 and my Ph.D. degree in Control Science and Engineering in 2025 from [Guangdong University of Technology](https://www.gdut.edu.cn/), under the supervision of [Prof. Shuting Cai](https://sme.gdut.edu.cn/info/1018/2430.htm) and [Prof. Bo Liu](https://teacher.gdut.edu.cn/liubo1/zh_CN/index.htm), respectively. 
 Following my Ph.D., I worked as a Research Assistant at Guangdong University of Technology, focusing on AI-based solutions for engineering problems.
 
-Previously, from 2020 to 2021, I was a Visiting Research Student at Dongguan University of Technology, where I was advised by [Prof. Bin Ren](https://sme.dgut.edu.cn/info/1123/1432.htm) and focused my research on human-computer interaction.
+Previously, from 2020 to 2021, I was a Visiting Research Student at [Dongguan University of Technology](https://www.dgut.edu.cn/), where I was advised by [Prof. Bin Ren](https://sme.dgut.edu.cn/info/1123/1432.htm) and focused my research on human-computer interaction.
 
 My research interests include machine learning, computer vision, and electronic design automation.
 
