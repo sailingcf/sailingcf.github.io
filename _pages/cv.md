@@ -39,6 +39,7 @@ Teaching
 ======
 * Spring 2026
   * 人工智能导论 (Introduction to Artificial Intelligence)
+  * 智能控制基础 (Fundamentals of Intelligent Control)
 
 
 
