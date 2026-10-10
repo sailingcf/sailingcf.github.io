@@ -16,6 +16,8 @@ author_profile: true
 
 ## Journal Articles
 
+11. Liu, B., Li, W., **Cao, F.**, Xiao, Y. (2026). [Similarity-based multi-view positive and unlabeled learning](https://link.springer.com/article/10.1007/s10489-026-07380-1). *Applied Intelligence*, 56(11), 365
+
 10. Liu, C., **Cao, F.**, Diao, Y., He, Y. and Cai, S. (2025). [Geographical Origin Identification of *Dendrobium officinale* Using Variational Inference-Enhanced Deep Learning](https://doi.org/10.3390/foods14193361). *Foods*, 14(19), 14193361. 
 
 9. Liu, B., Ye, C., Xiao, Y., Li, B., Wang, Z., Zhou, B., He, S. and **Cao, F.** (2025). [A multi-view forward positive and unlabeled graph learning method based on dictionary learning](https://doi.org/10.1016/j.ins.2025.122517). *Information Sciences*, 720, 122517.

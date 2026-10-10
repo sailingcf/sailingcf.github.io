@@ -21,6 +21,8 @@ I am always looking for motivated undergraduate and graduate students with backg
 
 🔥 News
 ======
+- **Oct 2026**: One paper is accepted by Neural Networks [[paper](https://doi.org/10.1016/j.neunet.2026.109719)]. 📃
+- **Jul 2026**: One paper is accepted by Applied Intelligence [[paper](https://doi.org/10.1007/s10489-026-07380-1)]. 📃
 - **Dec 2025**: I joined  Gannan Normal University as an Assistant Professor. 💼
 - **Sep 2025**: One paper is accepted by Foods [[paper](https://www.mdpi.com/2304-8158/14/19/3361)]. 📃
 - **Jul 2025**: One paper is accepted by Neurocomputing [[paper](https://doi.org/10.1016/j.neucom.2025.130996)]. 📃
